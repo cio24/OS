@@ -1,0 +1,10 @@
+tcp x x x 666:8080 B
+tcp x x x 777:9080 A
+tcp x x x 888:7081 C
+tcp x x x 999:6080 E
+tcp x x x 111:5080 N
+udp x x x 222:4080 D
+udp x x x 444:3080 B
+udp x x x 333:2080 N
+raw x x x 999:1080 A
+raw x x x 111:0081 A
